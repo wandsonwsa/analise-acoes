@@ -1,0 +1,13 @@
+# Ignorar arquivos e pastas do sistema
+$RECYCLE.BIN/
+DumpStack.log.tmp
+pagefile.sys
+python-3.13.2-amd64.exe
+
+# Ignorar arquivos temporários ou desnecessários
+*.tmp
+*.log
+
+# Ignorar pastas específicas
+"Projeto Kayrós/"
+Git/
